@@ -1,7 +1,7 @@
 ## Detecting Browser and Its version
 
 This code is based on the article from [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent). 
-Where they gave a brief hint about various keywords that can be used to detect the browser name.
+Where they gave a brief hint about various keywords that can be used to detect the browser name and device type (Mobile/Desktop).
 
 ![MDN](https://user-images.githubusercontent.com/59413787/89720361-dd82c480-d9ee-11ea-822c-1da618632b7f.png)
 
